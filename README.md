@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my page!
+
+## Things I code with
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--
 **lingjiang9/lingjiang9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
