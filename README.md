@@ -1,5 +1,6 @@
 ## Hi there 👋
 Welcome to my page!
+I am Ling, currently living in Dublin, Ireland
 
 ## Things I code with
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
