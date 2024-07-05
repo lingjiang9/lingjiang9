@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 Welcome to my page!
+
 I am Ling, computer science student, currently living in Dublin, Ireland
 
 ## Things I code with
