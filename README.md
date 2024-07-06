@@ -18,6 +18,14 @@ I am Ling, computer science student, currently living in Dublin, Ireland
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+## Projects :cactus:
+| Projects | Description | Language | Framework |
+| --- | --- | --- | --- |
+| `AES/Rijndael` | Advanced Encryption Standard(AES) | C | 55 |
+| `Weather Forecast` | Weather | JavaScript | React | 
+| `Moviebox` | Movie | JavaScript | React | 
+
 ## Where to find me
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
