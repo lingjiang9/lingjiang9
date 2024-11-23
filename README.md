@@ -19,11 +19,11 @@ Welcome to my page!
 
 
 ## Projects :cactus:
-| Projects | Description | Language | Framework |
-| --- | --- | --- | --- |
+| Projects  | Language | Framework |
+| --- | --- | --- | 
 | `AES-128 Encryption/Descryption Tool`  | C | - |
-| `Weather Forecast` | Weather | JavaScript | React | 
-| `Moviebox` | Movie | JavaScript | React | 
+| `Weather Forecast` | JavaScript | React | 
+| `Moviebox` | JavaScript | React | 
 
 ## Where to find me
 
