@@ -21,7 +21,7 @@ Welcome to my page!
 ## Projects :cactus:
 | Projects | Description | Language | Framework |
 | --- | --- | --- | --- |
-| `AES/Rijndael` | Advanced Encryption Standard(AES) | C | - |
+| `AES-128 Encryption/Descryption Tool`  | C | - |
 | `Weather Forecast` | Weather | JavaScript | React | 
 | `Moviebox` | Movie | JavaScript | React | 
 
