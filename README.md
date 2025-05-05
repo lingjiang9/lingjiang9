@@ -24,6 +24,10 @@ Welcome to my page!
 | `AES-128 Encryption/Descryption Tool`  | C | - |
 | `Weather Forecast` | JavaScript | React | 
 | `Moviebox` | JavaScript | React | 
+| `Dark Pattern Detector-Chrome extension` | JavaScript | React | Chrome API |
+| `Dark Pattern Awareness Web Application` | JavaScript | React | Chrome API |
+| `Personal portfolio Web Application` | TypeScript | React | Tailwind |
+
 
 ## Where to find me
 
