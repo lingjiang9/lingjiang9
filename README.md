@@ -19,14 +19,14 @@ Welcome to my page!
 
 
 ## Projects :cactus:
-| Projects  | Language | Framework |
+| Projects  | Frontend +Framework | Backend+Framework |
 | --- | --- | --- | 
-| `AES-128 Encryption/Descryption Tool`  | C | - |
-| `Weather Forecast` | JavaScript | React | 
-| `Moviebox` | JavaScript | React | 
-| `Dark Pattern Detector-Chrome extension` | JavaScript | React | Chrome API |
-| `Dark Pattern Awareness Web Application` | JavaScript | React | Chrome API |
-| `Personal portfolio Web Application` | TypeScript | React | Tailwind |
+| `AES-128 Encryption/Descryption Tool`  | C + WebAssemly + React | - |
+| `Weather Forecast` | JavaScript + React | Node  |
+| `Moviebox` | JavaScript + React | Node + Express |
+| `Dark Pattern Detector-Chrome extension` | JavaScript + React + Chrome API | - |
+| `Dark Pattern Awareness Web Application` | JavaScript + React | Node + Next |
+| `Personal portfolio Web Application` | TypeScript + React | - |
 
 
 ## Where to find me
