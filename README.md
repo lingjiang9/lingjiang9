@@ -22,11 +22,11 @@ Welcome to my page!
 | Projects  | Frontend +Framework | Backend+Framework |
 | --- | --- | --- | 
 | `AES-128 Encryption/Descryption Tool`  | C + WebAssemly + React | - |
-| `Weather Forecast` | JavaScript + React | Node  |
-| `Moviebox` | JavaScript + React | Node + Express |
 | `Dark Pattern Detector-Chrome extension` | JavaScript + React + Chrome API | - |
-| `Dark Pattern Awareness Web Application` | JavaScript + React | Node + Next |
+| `Dark Pattern Awareness Web Application` | JavaScript + React | Node + Next + MySQL |
 | `Personal portfolio Web Application` | TypeScript + React | - |
+| `Weather Forecast Tool` | JavaScript + React | Node  |
+| `Moviebox` | JavaScript + React | Node + Express + MongoDB |
 
 
 ## Where to find me
