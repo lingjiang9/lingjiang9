@@ -1,9 +1,17 @@
 ## Hi there 👋
 
-Welcome to my page!
+Welcome to my page! I'm a web and mobile developer. 
+- 💡 I’m familiar with JavaScript, React for web devlopment; Flutter, Dart, Firebase for mobile.
+- 🔭 I’m currently working on pixel retro games.
+- 🌱 I’m currently learning C++ and Godot
+- 👯 I’m looking to collaborate on web/mobile development
+
+
 
 
 ## Things I code with
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-483D8B?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -16,12 +24,17 @@ Welcome to my page!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+
 
 
 ## Projects :cactus:
 | Projects  | Frontend +Framework | Backend+Framework |
 | --- | --- | --- | 
-| `AES-128 Encryption/Descryption Tool`  | C + WebAssemly + React | - |
+| `AES-128 Encryption/Descryption Utility Tool`  | C + WebAssemly + React | - |
 | `Dark Pattern Detector-Chrome extension` | JavaScript + React + Chrome API | - |
 | `Dark Pattern Awareness Web Application` | JavaScript + React | Node + Next + MySQL |
 | `Personal portfolio Web Application` | TypeScript + React | - |
