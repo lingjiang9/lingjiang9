@@ -2,9 +2,8 @@
 
 Welcome to my page! I'm a web and mobile developer. 
 - 💡 I’m familiar with JavaScript, React for web devlopment; Flutter, Dart, Firebase for mobile.
-- 🔭 I’m currently working on pixel retro games.
-- 🌱 I’m currently learning C++ and Godot
-- 👯 I’m looking to collaborate on web/mobile development
+- 🌱 I’m currently learning aws and shell
+- 👯 I’m looking for roles in software developement and techops/devops
 
 
 
