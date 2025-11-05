@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Welcome to my page! I'm a web and mobile developer. 
-- 💡 I’m familiar with JavaScript, React for web devlopment; Flutter, Dart, Firebase for mobile.
-- 🌱 I’m currently learning aws and shell
+Welcome to my page! I'm a full stack web and mobile developer. 
+- 💡 I work with React/JavaScript, Node.js for web devlopment; Flutter/Dart, Firebase for mobile.
+- 🌱 I’m currently learning aws and shell 
 - 👯 I’m looking for roles in software developement and techops/devops
 
 
@@ -33,8 +33,8 @@ Welcome to my page! I'm a web and mobile developer.
 ## Projects :cactus:
 | Projects  | Frontend +Framework | Backend+Framework |
 | --- | --- | --- | 
-| `AES-128 Encryption/Descryption Utility Tool`  | C + WebAssemly + React | - |
-| `Dark Pattern Detector-Chrome extension` | JavaScript + React + Chrome API | - |
+| `AES-128 Symmetrical Encryption Tool`  | C + WebAssemly + React | - |
+| `Dark Pattern Detection Chrome extension` | JavaScript + React + Chrome API | OpenAI APIs + Python + PostgreSQL |
 | `Dark Pattern Awareness Web Application` | JavaScript + React | Node + Next + MySQL |
 | `Personal portfolio Web Application` | TypeScript + React | - |
 | `Weather Forecast Tool` | JavaScript + React | Node  |
