@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my page! I'm a full stack web and mobile developer. 
-- 💡 I work with React/JavaScript, Node.js for web devlopment; Flutter/Dart, Firebase for mobile.
+- 💡 I work with React/JavaScript, Node.js, PostgreSQL for web devlopment; Flutter/Dart, Firebase for mobile.
 - 🌱 I’m currently learning aws and shell 
 - 👯 I’m looking for roles in software developement and techops/devops
 
